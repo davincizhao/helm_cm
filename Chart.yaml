@@ -1,0 +1,10 @@
+apiVersion: v1
+name: nginx-deployment 
+description: my first Helm chart to deploy multiple Nginx applications using the same template and multiple input files.
+keywords:
+- nginx
+- helm
+version: 1.0.0
+maintainers:
+- name: kunzhao 
+  email: kunzhao@xyz.com
